@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %} Login {% endblock %}
+
+{% block content %}
+
+<div class="container">
+        <div class="login-form-container">
+            <h1>Register</h1>
+            <form method="POST" action="">
+                {{ form.hidden_tag() }}
+                <div class="form-group">
+                    <label>Username</label>
+                    {{ form.username(class="form-control", placeholder="Enter your username") }}
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    {{ form.password(class="form-control", placeholder="Enter your password") }}
+                </div>
+                <div class="form-group">
+                    <label>Confirm password</label>
+                    {{ form.confirm_password(class="form-control", placeholder="Enter again your password") }}
+                </div>
+                {{ form.submit(class="btn btn-primary") }}
+            </form>
+
+
+            {% if wrong_password %}
+
+                <p>The passwords does not match</p>
+
+            {% endif %}
+
+
+            <p>Have already an account? <a class="register-link" href="{{ url_for('login') }}">Login here</a></p>
+        </div>
+    </div>
+
+{% endblock %}

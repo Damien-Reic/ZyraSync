@@ -1,0 +1,7 @@
+.venv
+.idea
+.gitlab-ci.yml
+qodana.yaml
+run_prod.cmd
+.gitignore
+__pycache__

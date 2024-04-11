@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+flask-login
+flask_bcrypt
+waitress
+configparser
+logging
+pyyaml
+coloredlogs
+flask_wtf

@@ -1,0 +1,1 @@
+"C:\Program Files\Git\usr\bin\openssl.exe" req -x509 -newkey rsa:8192 -nodes -out cert.crt -keyout key.key -days 3650

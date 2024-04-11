@@ -1,0 +1,76 @@
+2024-04-05 09:19:15,058 - file - DEBUG - Debug FILE
+2024-04-05 09:19:15,226 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5555
+2024-04-05 09:19:15,229 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-05 09:19:15,235 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:19:15,572 - file - DEBUG - Debug FILE
+2024-04-05 09:19:15,702 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:19:15,708 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:30:53,710 - file - DEBUG - Debug FILE
+2024-04-05 09:30:53,912 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:5555
+2024-04-05 09:30:53,912 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-05 09:30:53,917 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:30:54,298 - file - DEBUG - Debug FILE
+2024-04-05 09:30:54,451 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:30:54,458 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:32:20,167 - file - DEBUG - Debug FILE
+2024-04-05 09:32:20,323 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:5555
+2024-04-05 09:32:20,323 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-05 09:32:20,330 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:32:20,685 - file - DEBUG - Debug FILE
+2024-04-05 09:32:20,839 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:32:20,849 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:33:08,169 - werkzeug - INFO -  * Detected change in 'c:\\Users\\walte\\OneDrive - Stover\\Documents\\projets\\AutomatisationPlansCREO\\src\\runserver.py', reloading
+2024-04-05 09:33:08,210 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:33:08,627 - file - DEBUG - Debug FILE
+2024-04-05 09:33:08,788 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:33:08,792 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:33:09,168 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:33:09] "GET / HTTP/1.1" 200 -
+2024-04-05 09:33:09,199 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:33:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-05 09:33:39,045 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:33:39] "GET / HTTP/1.1" 200 -
+2024-04-05 09:33:44,942 - file - DEBUG - Debug FILE
+2024-04-05 09:33:45,092 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:5555
+2024-04-05 09:33:45,092 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-05 09:33:45,099 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:33:45,434 - file - DEBUG - Debug FILE
+2024-04-05 09:33:45,592 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:33:45,608 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:33:48,118 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:33:48] "GET / HTTP/1.1" 200 -
+2024-04-05 09:33:51,291 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:33:51] "GET / HTTP/1.1" 200 -
+2024-04-05 09:33:55,709 - werkzeug - INFO -  * Detected change in 'c:\\Users\\walte\\OneDrive - Stover\\Documents\\projets\\AutomatisationPlansCREO\\src\\runserver.py', reloading
+2024-04-05 09:33:55,758 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:33:56,150 - file - DEBUG - Debug FILE
+2024-04-05 09:33:56,300 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:33:56,305 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:34:13,427 - werkzeug - INFO -  * Detected change in 'c:\\Users\\walte\\OneDrive - Stover\\Documents\\projets\\AutomatisationPlansCREO\\src\\runserver.py', reloading
+2024-04-05 09:34:13,495 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:34:13,833 - file - DEBUG - Debug FILE
+2024-04-05 09:34:13,986 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:34:13,992 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:34:15,012 - werkzeug - INFO -  * Detected change in 'c:\\Users\\walte\\OneDrive - Stover\\Documents\\projets\\AutomatisationPlansCREO\\src\\runserver.py', reloading
+2024-04-05 09:34:15,052 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:34:15,441 - file - DEBUG - Debug FILE
+2024-04-05 09:34:15,588 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:34:15,591 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:56:36,305 - file - DEBUG - Debug FILE
+2024-04-05 09:56:36,538 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:5555
+2024-04-05 09:56:36,538 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-04-05 09:56:36,540 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:56:36,989 - file - DEBUG - Debug FILE
+2024-04-05 09:56:37,155 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:56:37,157 - werkzeug - INFO -  * Debugger PIN: 100-360-983
+2024-04-05 09:56:52,211 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:56:52] "GET / HTTP/1.1" 200 -
+2024-04-05 09:56:55,004 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:56:55] "GET / HTTP/1.1" 200 -
+2024-04-05 09:56:55,818 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:56:55] "GET / HTTP/1.1" 200 -
+2024-04-05 09:56:57,861 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:56:57] "GET / HTTP/1.1" 200 -
+2024-04-05 09:56:59,718 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:56:59] "GET / HTTP/1.1" 200 -
+2024-04-05 09:57:01,583 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2024 09:57:01] "GET / HTTP/1.1" 200 -
+2024-04-05 09:57:51,639 - werkzeug - INFO -  * Detected change in 'c:\\Users\\walte\\OneDrive - Stover\\Documents\\projets\\AutomatisationPlansCREO\\src\\runserver.py', reloading
+2024-04-05 09:57:51,699 - werkzeug - INFO -  * Restarting with stat
+2024-04-05 09:57:52,154 - file - DEBUG - Debug FILE
+2024-04-05 09:57:52,302 - werkzeug - WARNING -  * Debugger is active!
+2024-04-05 09:57:52,304 - werkzeug - INFO -  * Debugger PIN: 100-360-983

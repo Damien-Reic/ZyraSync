@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %} Admin main page {% endblock %}
+
+{% block content %}
+
+    <h2>Admin page</h2>
+    <p>Hello there</p>
+
+    <a href="{{ url_for('logout') }}">Lougout here</a>
+
+{% endblock %}
