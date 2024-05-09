@@ -31,15 +31,4 @@ class App():
         login_manager.init_app(app)
         login_manager.login_view = "login"
 
-        ### Configuration du logger web
-
-        logs_conf_path = "conf/web_logs.conf"
-
-        Logs.setup_logging(logs_conf_path, logging_level=logging.DEBUG)
-
-        logfile = logging.getLogger('file')
-        logconsole = logging.getLogger('console')
-        logfile.debug("Debug FILE")
-        logconsole.debug("Debug CONSOLE")
-
         return app, bcrypt, db, login_manager

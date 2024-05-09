@@ -3,9 +3,6 @@ flask-sqlalchemy
 flask-login
 flask_bcrypt
 waitress
-configparser
-logging
 pyyaml
-coloredlogs
 flask_wtf
 werkzeug>=2.3.8 # not directly required, pinned by Snyk to avoid a vulnerability
