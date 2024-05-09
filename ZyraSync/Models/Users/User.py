@@ -1,7 +1,5 @@
 from flask_login import UserMixin
-from ZyraSync import db
-from ZyraSync import login_manager
-
+from ZyraSync import db,bcrypt,login_manager
 
 
 
@@ -17,3 +15,10 @@ class User(db.Model, UserMixin):
     @login_manager.user_loader
     def load_user(user_id):
         return User.query.get(int(user_id))
+
+    @staticmethod
+    def register_user(username: str, password: str):
+        hashed_password = bcrypt.generate_password_hash(password)
+        new_user = User(username=username, password=hashed_password)
+        db.session.add(new_user)
+        db.session.commit()
